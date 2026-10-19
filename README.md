@@ -12,9 +12,7 @@ Implementations exploring image processing, segmentation, object detection, and 
 
 ## Input Images
 
-The original input images are not included in this repository. The image-processing notebooks require images supplied by the user. The expected filenames and descriptions are listed in each project's README.
-
-Results may differ when using alternative images. Some processing parameters were selected for the original examples and may need adjustment.
+Original input files are not included, example images appear in the notebook outputs.
 
 ## Tools
 
