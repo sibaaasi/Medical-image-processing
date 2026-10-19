@@ -6,8 +6,6 @@ Explore how digital images are represented, transformed, and analyzed, progressi
 
 ## Input Images
 
-The original images are not included.
-
 - **traffic.jpeg:** a color traffic-scene image used for pixel inspection, resizing, grayscale conversion, rotation, and edge detection. The code accesses specific pixel coordinates, so the image must be at least 151 pixels tall and 151 pixels wide.
 - **coins.jpeg:** an image containing multiple coins, used for thresholding and circle detection.
 
